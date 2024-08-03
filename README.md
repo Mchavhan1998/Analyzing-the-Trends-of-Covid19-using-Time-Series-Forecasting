@@ -20,8 +20,8 @@ Data Analysis, Python, Pandas, Matplotlib, Plotly, Facebook Prophet, Data Visual
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/1vig/netflix-data-analysis.git
-    cd netflix-data-analysis
+    git clone https://github.com/1vig/Covid19-data-analysis.git
+    cd Covid19-data-analysis
     ```
 
 2. **Install the required dependencies**:
